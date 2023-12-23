@@ -15,11 +15,14 @@ For reference, a single random integer between 0 and 100 takes approximately 36 
 
 ## Installation
 
-To install QRNG, ensure you have Python and pip installed on your system. Then run the following command:
+[//]: # (To install QRNG, ensure you have Python and pip installed on your system. Then run the following command:)
 
-```bash
-pip install qrng
-```
+[//]: # ()
+[//]: # (```bash)
+
+[//]: # (pip install qrng)
+
+[//]: # (```)
 
 Make sure you also have Qiskit installed:
 ```bash
